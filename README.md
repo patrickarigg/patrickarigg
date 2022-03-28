@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">A Junior Data Scientist</h3>
+<h3 align="center">Junior Data Scientist</h3>
 
 - 🔭 I’m currently working on: [Project Drowsy](https://github.com/patrickarigg/project_drowsy) - an app to detect driver drowsiness
 
