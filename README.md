@@ -5,8 +5,6 @@
 
 - 📫 How to reach me: **patrickarigg@gmail.com**
 
-- 🎺 Fun fact: **I've played trumpet in the Queen's gaff!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/patrick-rigg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-rigg-638133b9/" height="30" width="40" /></a>
