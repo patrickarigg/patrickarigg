@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
+<h1 align="center">Patrick Rigg</h1>
 <h3 align="center">Software Engineer & Le Wagon Data Science TA</h3>
 
 - 📫 How to reach me: **patrickarigg@gmail.com**
